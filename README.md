@@ -12,9 +12,9 @@ This is the Election Integrity "Voting Holon"
 
 
 ## Plans:
-1. [Voter Rolls](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
-1. [Paper Ballet Voting Secured](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
-1. [More in the future](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
+1. [Voter Rolls](https://github.com/FreedomNow2025/Voting_Integrity/blob/main/wiki/Voter_Rolls.md)
+1. Paper Ballet Voting Secured
+1. [More in the future](https://github.com/FreedomNow2025/Voting_Integrity/blob/main/wiki/Future.md)
 
 
 (VotingHolon.com coming soon)   (Oct 2025)
