@@ -23,6 +23,9 @@
 1. Local government does "Single Sign-on" that maps all government employees to a single way to sign on to all "B2G" software. (Internet Hosted or on-prem)
 1. Active Directory is the most common used "Identity provider" which stores their login email and password. New government employees have this set when they start work. It is turned OFF here when they leave employment.
 1. All B2G software connects to the "Single Sign on" (SSO) Identity provider (Active Directory or competitors) using "SAML 2.0" protocol or a similar equivalent.
+1. The B2G connected sofware gets the current logged in user's full name and email. No government employee can act as another government employee. This secures the most secure government computers. (Law Enforcement, Financial, etc.)
+1. The following 10 B2G software products are used by most local government in the USA: Tyler Technologies Munis ERP, Microsoft 365, SAP S/4HANA, Oracle Cloud ERP, Zoom Video Communications Zoom, Constellation Software Inc. (Harris) SmartFusion, Workday Government Cloud, CGI Group Inc. Advantage, Google Workspace, Accela Civic Platform
+1. The above all work this way with SAML2 to SSO. (Active Directory, etc.)
 
 
 (VotingHolon.com coming soon)   (Oct 2025)
