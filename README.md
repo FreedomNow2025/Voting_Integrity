@@ -3,12 +3,12 @@
 
 This is the Election Integrity "Voting Holon" 
 ## Goals:
-1. [Paper Ballet Voting Secured](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md) by blocking all ways voting fraud can happen.
-1. [Voting Chain of Custody](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md): Each place is secured, and transportation between places.
-1. [Catch people doing Voter Fraud](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
-1. [Catch people enabling Voter Fraud](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
-1. [Verify election on your home computer](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md)
-1. [Enable citizens to investigate voter fraud](https://github.com/FreedomNow2025/X_Censorship/blob/main/Incident_4.md) in a trivial way.
+1. Paper Ballet Voting Secured: by blocking all ways voting fraud can happen.
+1. Voting Chain of Custody: Each place is secured, and transportation between places.
+1. Catch people doing Voter Fraud
+1. Catch people enabling Voter Fraud
+1. Verify election on your home computer
+1. Enable citizens to investigate voter fraud: from home in a trivial way.
 
 
 ## Plans:
