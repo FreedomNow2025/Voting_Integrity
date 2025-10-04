@@ -16,7 +16,11 @@
 
 ## Holding accountable any government employee making invalid data:
 1. Below shows how we know which Government employee makes a change
-1. 
+1. VotingHolon.com software is open source.
+1. Government employees login with their normal SSO (Single Sign-on).  See section below. This software never has passwords.
+1. This software knows the name and email of the currently logged in government employee.
+1. One bad-actor Government employee can't not act like another government employee. (See below)
+1. When a change is made, it stores the government employee's name in the blockchain with the changes made.
 
 
 ## Which Government employee makes a change:
